@@ -1,0 +1,21 @@
+npm init -y
+
+npm install express
+
+npm install express -E (sem ^ - de atualizar versão)
+
+npm install express --save-dev (dependencia de desenvolvimento)
+
+npm install express --save-prod (dependencia de producao)
+
+npm install express@2.1.0 (versão especifica)
+
+npm install express@4.x (ultima versão)
+
+npm uninstall express (desinstala)
+
+npm ls --depth=0 (mostra pacotes que instalei)
+
+npm outdated (exibe pacotes desatualizados)
+
+npm update (atualiza pacotes)

@@ -1,0 +1,12 @@
+^ minor patch
+
+~ patch
+
+2.      1.      0
+major   minor   patch
+
+patch atualiza sempre que tem correção de bug sem adicionar coisa nova. (2.1.1);
+
+minor atualiza sempre que adicionar um recurso novo (2.2.0)
+
+major atualiza sempre que adicionar um recurso novo que vai quebrar compatibilidade com recursos anteriores (3.1.0)
