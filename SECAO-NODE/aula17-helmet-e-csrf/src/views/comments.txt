@@ -1,0 +1,11 @@
+<% Controle de fluxo (if, for...) %>
+
+<%= Imprime escapando caracteres %>
+
+<%- Imprime sem escapar caracteres (usando em HTML), executa o que ta mandando %>
+
+<%# Comentário %>
+
+<%- include('CAMINHO/ARQUIVO'); %>
+
+PODE ENVIAR AS INFORMAÇÕES PARA O EJS TANTO PELO RENDER DOS CONTROLLERS QUANTO PELO DO MIDDLEWARE USANDO res.locals
